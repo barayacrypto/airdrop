@@ -1,0 +1,2 @@
+# airdrop
+Just for info
